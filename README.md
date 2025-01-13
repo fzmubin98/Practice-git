@@ -1,2 +1,2 @@
 # Practice-git
-this will create a merger conflict
+change this
